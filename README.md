@@ -1,63 +1,74 @@
- ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50" />Hey 𝐈'𝐌 𝐒𝐈𝐅𝐀𝐓 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50" />
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="45" /> SIFAT × SIZUKA <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="45" />
-
-<table>
-<tr>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+🙏;Don't+forget+to+⭐+the+repo;Happy+Coding!+🚀;Built+with+❤️+by+Sifat" alt="Thanks" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-
-</div>
-
-## 👤 About Me
-I'm a student passionate about JavaScript and coding.  
-Just a normal person every day trying to find a better one of me.
-
-## 🛠️ Top Skills
-
-- JavaScript (JS)
-- python
-- html 
-- CSS
-- NIX
-
-
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000">
-
-</div>
-
-</div>
-
-### 📊 Github Stats (Expand to View) 
-
- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ewr-Sifu&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ewr-Sifu&theme=radical" alt="GitHub Streak" />
-</p> 
-
-<p align="center">
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ewr-Sifu&show_icons=true&locale=en&layout=compact&theme=algolia" alt="eabdalmufid" height="192px"/>
-  </p>
+<body>
+  <center>
+<h1 align="center">𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮</h1>
+<br>
+<div align="center">
   
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
+![MR IMRAN](./IMRAN1.jpg)
 
-</details>
+<h1 align="center">  𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 </h1>
+</div>
+<div align="center">
+  <!-- <img src="https://i.imgur.com/jx17oHT.gif"> -->
+</div>
+<div>
+  <div align="center">
+    <img src="https://i.ibb.co/DD2FwyTr/495268670-697469273240801-7876666506685550414-n-jpg-stp-dst-jpg-s720x720-tt6-nc-cat-110-ccb-1-7-nc-s.jpg" align="right" width="170" height="270">
 
-<p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="nz" width="700"/>
+<dl>
+    <dt align="left"><strong>Name:</strong></dt>
+    <dd align="left">мσнαммα∂ ιмяαη</dd>
+    <dt align="left">Loves:</dt>
+    <dd align="left">Anime, Manga, Games</dd>
+    <dt align="left">Hobbies:</dt>
+    <dd align="left">Coding,
+      Gaming,
+      Reading</dd>
+</dl>
+<br>
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fe2ev5ldx3dlfb5t2qszogktce&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://accesscardzbd.com/Mohammad-Imran)
+
+<br>
+<div align="center">
+    <h1> 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓜𝓮 </h1>
+</div>
+<p align='center'>
+  <a href="https://accesscardzbd.com/Mohammad-Imran"><img src="https://img.shields.io/badge/WEBSITE-2e3440?style=for-the-badge"/></a>
+  <a href="https://instagram.com/imran.ahmed099"><img src="https://img.shields.io/badge/INSTAGRAM-2e3440?style=for-the-badge"/></a>
+  <a href="https://t.me/Imran_bhai60"><img src="https://img.shields.io/badge/TELEGRAM-2e3440?style=for-the-badge"/></a>
+    <a href="https://wa.me/+8801689903267"><img src="https://img.shields.io/badge/WHATSAPP-2e3440?style=for-the-badge"/></a>
+</p>
+<br>
+
+<div align="center">
+    <h1> 𝓢𝓾𝓹𝓹𝓸𝓻𝓽 𝓜𝓮 </h1>
+</div>
+
+
+## 𝓜𝔂 𝓖𝓲𝓽𝓱𝓾𝓫 𝓢𝓽𝓪𝓽𝓼:
+
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MR-IMRAN-60&theme=algolia" alt="MOHAMMAD-IMRAN" />
 </p>
 
-## 🌐 Connect with Me
-<p align="center">
-	<a href="https://github.com/Ewr-Sifu/"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.facebook.com/FFSIFU/"><img src="https://img.icons8.com/bubbles/50/000000/facebook.png" alt="Facebook"/></a>
-	
-</p>
+---
+
+### 𝓜𝔂 𝓖𝓲𝓽𝓱𝓾𝓫 𝓢𝓽𝓪𝓽𝓼𝓣𝓸𝓹 𝓤𝓼𝓪𝓰𝓮 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼:
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-IMRAN-60&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
+
+---
+
+
+
+<br>
+<div align="center">
+    <h1> 𝓣𝓱𝓪𝓷𝓴𝓼 𝓕𝓸𝓻 𝓡𝓮𝓪𝓭𝓲𝓷𝓰 </h1>
+</div>
+<img src="https://count.getloli.com/get/@:MR-IMRAN?theme=gelbooru" alt="MR-IMRAN" />
+
+_______________________
+
+![Animation](https://raw.githubusercontent.com/IRON-M4N/IRON-M4N/output/github-contribution-grid-snake-dark.svg)
