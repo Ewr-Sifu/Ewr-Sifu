@@ -4,20 +4,21 @@
 <br>
 <div align="center">
   
-![Ewr-sifu](./sifu.jpg)
+![Ewr-sifu](./img_1_1762464341153.jpg)
 
 <h1 align="center">  𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 </h1>
 </div>
 <div align="center">
-  <!-- <img src="https://i.imgur.com/jx17oHT.gif"> -->
+  <img
+src="https://i.imgur.com/AXQYMh0.jpeg">
 </div>
 <div>
   <div align="center">
-    <img src="https://i.ibb.co/DD2FwyTr/495268670-697469273240801-7876666506685550414-n-jpg-stp-dst-jpg-s720x720-tt6-nc-cat-110-ccb-1-7-nc-s.jpg" align="right" width="170" height="270">
+    <img src="https://i.imgur.com/3ROPcqH.jpeg" align="right" width="170" height="270">
 
 <dl>
     <dt align="left"><strong>Name:</strong></dt>
-    <dd align="left">мσнαммα∂ ιмяαη</dd>
+    <dd align="left">MD SIFAT</dd>
     <dt align="left">Loves:</dt>
     <dd align="left">Anime, Manga, Games</dd>
     <dt align="left">Hobbies:</dt>
@@ -27,17 +28,18 @@
 </dl>
 <br>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fe2ev5ldx3dlfb5t2qszogktce&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://accesscardzbd.com/Mohammad-Imran)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fe2ev5ldx3dlfb5t2qszogktce&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://accesscardzbd.com/Ewr-sifu)
 
 <br>
 <div align="center">
     <h1> 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓜𝓮 </h1>
 </div>
 <p align='center'>
-  <a href="https://accesscardzbd.com/Mohammad-Imran"><img src="https://img.shields.io/badge/WEBSITE-2e3440?style=for-the-badge"/></a>
-  <a href="https://instagram.com/imran.ahmed099"><img src="https://img.shields.io/badge/INSTAGRAM-2e3440?style=for-the-badge"/></a>
-  <a href="https://t.me/Imran_bhai60"><img src="https://img.shields.io/badge/TELEGRAM-2e3440?style=for-the-badge"/></a>
-    <a href="https://wa.me/+8801689903267"><img src="https://img.shields.io/badge/WHATSAPP-2e3440?style=for-the-badge"/></a>
+  
+  <a href="https://ewr-sifu.github.io/Sifu-apis/"><img src="https://img.shields.io/badge/WEBSITE-2e3440?style=for-the-badge"/></a>
+  <a href="https://t.me/ewr_sifu"><img src="https://img.shields.io/badge/TELEGRAM-2e3440?style=for-the-badge"/></a>
+    <a href="https://www.facebook.com/darkshifat"><img src="https://img.shields.io/badge/FACEBOOK-2e3440?style=for-the-badge"/></a>
+    <a href="https://wa.me/+8801320645204"><img src="https://img.shields.io/badge/WHATSAPP-2e3440?style=for-the-badge"/></a>
 </p>
 <br>
 
@@ -50,7 +52,7 @@
 
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MR-IMRAN-60&theme=algolia" alt="MOHAMMAD-IMRAN" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ewr-sifu&theme=algolia" alt="MOHAMMAD-SIFAT" />
 </p>
 
 ---
@@ -67,7 +69,7 @@
 <div align="center">
     <h1> 𝓣𝓱𝓪𝓷𝓴𝓼 𝓕𝓸𝓻 𝓡𝓮𝓪𝓭𝓲𝓷𝓰 </h1>
 </div>
-<img src="https://count.getloli.com/get/@:MR-IMRAN?theme=gelbooru" alt="MR-IMRAN" />
+<img src="https://count.getloli.com/get/@:Ewr-sifu?theme=gelbooru" alt="MR-SIFU" />
 
 _______________________
 
