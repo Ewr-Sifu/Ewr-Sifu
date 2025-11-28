@@ -55,6 +55,11 @@ src="https://i.imgur.com/kgBGKN6.jpeg">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ewr-sifu&theme=algolia" alt="MOHAMMAD-SIFAT" />
 </p>
 
+<p align="center">
+	<a href="https://github.com/KAKASHI-V5/"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.facebook.com/darkshifat/"><img src="https://img.icons8.com/bubbles/50/000000/facebook.png" alt="Facebook"/></a>
+	
+</p>
 ---
 
 ### 𝓜𝔂 𝓖𝓲𝓽𝓱𝓾𝓫 𝓢𝓽𝓪𝓽𝓼𝓣𝓸𝓹 𝓤𝓼𝓪𝓰𝓮 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼:
