@@ -4,7 +4,10 @@
 <br>
 <div align="center">
   
-![Ewr-sifu](./img_1_1762464341153.jpg)
+  <img
+ src="https://i.imgur.com/79SWIJa.png">
+ </div>
+
 
 <h1 align="center">  𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 </h1>
 </div>
