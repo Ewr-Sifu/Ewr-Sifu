@@ -13,7 +13,8 @@
 </div>
 <div align="center">
   <img
-src="https://i.imgur.com/kgBGKN6.jpeg">
+src="https://i.imgur.com/0oMyepf.gif" align="center"
+	  width="500"> 
 </div>
 <div>
   <div align="center">
