@@ -68,7 +68,7 @@ src="https://i.imgur.com/0oMyepf.gif" align="center"
 
 ### 𝓜𝔂 𝓖𝓲𝓽𝓱𝓾𝓫 𝓢𝓽𝓪𝓽𝓼𝓣𝓸𝓹 𝓤𝓼𝓪𝓰𝓮 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼:
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ewr-sifu&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-IMRAN-60&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
 
 ---
 
@@ -78,7 +78,7 @@ src="https://i.imgur.com/0oMyepf.gif" align="center"
 <div align="center">
     <h1> 𝓣𝓱𝓪𝓷𝓴𝓼 𝓕𝓸𝓻 𝓡𝓮𝓪𝓭𝓲𝓷𝓰 </h1>
 </div>
-<img src="https://count.getloli.com/get/@:Ewr-sifu?theme=gelbooru" alt="MR-SIFU" />
+<img src="https://count.getloli.com/get/@:MR-IMRAN-60?theme=gelbooru" alt="MR-SIFU" />
 
 _______________________
 
