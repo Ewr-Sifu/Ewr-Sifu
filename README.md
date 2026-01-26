@@ -40,9 +40,9 @@ src="https://i.imgur.com/0oMyepf.gif" align="center"
 </div>
 <p align='center'>
   
-  <a href="https://ewr-sifu.github.io/Sifu-apis/"><img src="https://img.shields.io/badge/WEBSITE-2e3440?style=for-the-badge"/></a>
+  <a href="https://sifuapis.vercel.app"><img src="https://img.shields.io/badge/WEBSITE-2e3440?style=for-the-badge"/></a>
   <a href="https://t.me/ewr_sifu"><img src="https://img.shields.io/badge/TELEGRAM-2e3440?style=for-the-badge"/></a>
-    <a href="https://www.facebook.com/darkshifat"><img src="https://img.shields.io/badge/FACEBOOK-2e3440?style=for-the-badge"/></a>
+    <a href="https://www.facebook.com/@SIFUH4X"><img src="https://img.shields.io/badge/FACEBOOK-2e3440?style=for-the-badge"/></a>
     <a href="https://wa.me/+8801320645204"><img src="https://img.shields.io/badge/WHATSAPP-2e3440?style=for-the-badge"/></a>
 </p>
 <br>
