@@ -54,13 +54,15 @@ src="https://i.imgur.com/0oMyepf.gif" align="center"
 
 ## 𝓜𝔂 𝓖𝓲𝓽𝓱𝓾𝓫 𝓢𝓽𝓪𝓽𝓼:
 
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ewr-sifu&theme=algolia" alt="MOHAMMAD-SIFAT" />
-</p>
+<div align="center">
+   <img width="40%" src="https://github-readme-stats-salesp07.vercel.app/api?username=Ewr-sifu&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width="42%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Ewr-sifu&count_private=true&theme=tokyonight&border_radius=10" alt="streak stats"/>
+  <br/>
+  <img width="40%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=AbhishekSuresh2&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
 <p align="center">
-	<a href="https://github.com/KAKASHI-V5/"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://github.com/Ewr-sifu/"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.facebook.com/darkshifat/"><img src="https://img.icons8.com/bubbles/50/000000/facebook.png" alt="Facebook"/></a>
 	
 </p>
@@ -78,7 +80,7 @@ src="https://i.imgur.com/0oMyepf.gif" align="center"
 <div align="center">
     <h1> 𝓣𝓱𝓪𝓷𝓴𝓼 𝓕𝓸𝓻 𝓡𝓮𝓪𝓭𝓲𝓷𝓰 </h1>
 </div>
-<img src="https://count.getloli.com/get/@:MR-IMRAN-60?theme=gelbooru" alt="MR-SIFU" />
+<img src="https://count.getloli.com/get/@:Ewr-sifu?theme=gelbooru" alt="MR-SIFU" />
 
 _______________________
 
