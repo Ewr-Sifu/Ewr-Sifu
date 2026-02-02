@@ -85,3 +85,11 @@ src="https://i.imgur.com/0oMyepf.gif" align="center"
 _______________________
 
 ![Animation](https://raw.githubusercontent.com/IRON-M4N/IRON-M4N/output/github-contribution-grid-snake-dark.svg)
+
+![Ewr-Sifu](nl.svg)
+
+
+<br>
+<div align="center">
+    <h1> © EWR SIFU 🇧🇩 </h1>
+</div>
