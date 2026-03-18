@@ -10,6 +10,12 @@
 <img 
 src="https://avatars.githubusercontent.com/u/244322298?s=506&v=4" width="300" style="border-radius: 20px; border: 2px solid #00f2ff; box-shadow: 0 0 15px #00f2ff, 0 0 30px #7000ff;"/>
 
+ <p align="center">
+  <a href="https://m.me/j/AbZyEjKlW84rxu2t/?send_source=gc%3Acopy_invite_link_c" target="_blank">
+    <img src="Sifu/mss.svg" width="" alt="massanger channel Link"/>
+  </a>
+</p>
+
 <br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&pause=1000&color=00F2FF&center=true&vCenter=true&width=500&lines=!!+INITIALIZING+SYSTEM...;%E2%96%BA+ACCESS+GRANTED%3A+SIFU;%E2%9A%9B+FULL+STACK+DEVELOPER;%E2%97%86+IT'S+ME+SIFU" alt="Typing SVG" />
