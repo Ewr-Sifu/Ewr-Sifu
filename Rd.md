@@ -80,6 +80,14 @@ src="https://avatars.githubusercontent.com/u/244322298?s=506&v=4" width="300" st
 <br>
 <img src="https://count.getloli.com/get/@:LordXenos?theme=gelbooru" />
 
+
+### 𝓜𝔂 𝓖𝓲𝓽𝓱𝓾𝓫 𝓢𝓽𝓪𝓽𝓼𝓣𝓸𝓹 𝓤𝓼𝓪𝓰𝓮 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼:
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-IMRAN-60&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
+
+---
+
+
 <br>
 
 ### ┌∩┐(◣_◢)┌∩┐
