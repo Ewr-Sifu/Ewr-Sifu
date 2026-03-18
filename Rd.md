@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&pause=500&color=00F2FF&center=true&vCenter=true&width=800&height=120&lines=%E2%80%B9+%E2%96%93+WELCOME+TO+XENOS+PROFILE+%E2%96%93+%E2%80%BA;%E2%9A%9B+INITIALIZING+CYBERCORE...+;%E2%96%AC%E2%96%AC%E2%96%AC+ACCESS+GRANTED+%E2%96%AC%E2%96%AC%E2%96%AC" alt="Xenos Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&pause=500&color=00F2FF&center=true&vCenter=true&width=800&height=120&lines=%E2%80%B9+%E2%96%93+WELCOME+TO+SIFU+PROFILE+%E2%96%93+%E2%80%BA;%E2%9A%9B+INITIALIZING+CYBERCORE...+;%E2%96%AC%E2%96%AC%E2%96%AC+ACCESS+GRANTED+%E2%96%AC%E2%96%AC%E2%96%AC" alt="Xenos Header" />
 
 <br><br>
 
