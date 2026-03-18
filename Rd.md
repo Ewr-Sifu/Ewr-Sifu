@@ -8,11 +8,11 @@
 ## ・┆Tєαᴍ ☣︎ нєαятℓєѕѕ┆・
 
 <img 
-src="https://avatars.githubusercontent.com/u/263323752?s=506&v=4" width="300" style="border-radius: 20px; border: 2px solid #00f2ff; box-shadow: 0 0 15px #00f2ff, 0 0 30px #7000ff;"/>
+src="https://avatars.githubusercontent.com/u/244322298?s=506&v=4" width="300" style="border-radius: 20px; border: 2px solid #00f2ff; box-shadow: 0 0 15px #00f2ff, 0 0 30px #7000ff;"/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&pause=1000&color=00F2FF&center=true&vCenter=true&width=500&lines=!!+INITIALIZING+SYSTEM...;%E2%96%BA+ACCESS+GRANTED%3A+XENOS;%E2%9A%9B+FULL+STACK+DEVELOPER;%E2%97%86+IT'S+ME+XENOS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&pause=1000&color=00F2FF&center=true&vCenter=true&width=500&lines=!!+INITIALIZING+SYSTEM...;%E2%96%BA+ACCESS+GRANTED%3A+SIFU;%E2%9A%9B+FULL+STACK+DEVELOPER;%E2%97%86+IT'S+ME+SIFU" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/SECURITY-LEVEL_MAX-00f2ff?style=for-the-badge&logo=codeproject&logoColor=black" />
