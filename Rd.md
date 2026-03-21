@@ -90,12 +90,12 @@ src="https://avatars.githubusercontent.com/u/244322298?s=506&v=4" width="300" st
 <img src="https://raw.githubusercontent.com/Ewr-Sifu/Ewr-Sifu/refs/heads/main/nl.svg" width="100%" />
 
 <br>
-<img src="https://count.getloli.com/get/@:LordXenos?theme=gelbooru" />
+<img src="https://camo.githubusercontent.com/a99a8b0b6ae196bab471502b1b9a7f16e328607cbccbbaded0ba27b392122908/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f403a4577722d736966753f7468656d653d67656c626f6f7275" />
 
 
 ### 𝓜𝔂 𝓖𝓲𝓽𝓱𝓾𝓫 𝓢𝓽𝓪𝓽𝓼𝓣𝓸𝓹 𝓤𝓼𝓪𝓰𝓮 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼:
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-IMRAN-60&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ewr-sifu&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
 
 ---
 
