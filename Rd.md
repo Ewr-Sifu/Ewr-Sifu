@@ -5,10 +5,16 @@
 
 <br><br>
 
-## ・┆Tєαᴍ ☣︎ нєαятℓєѕѕ┆・
+## あ_Tєαᴍ нєαятℓєѕѕ_あ
 
 <img 
 src="https://avatars.githubusercontent.com/u/244322298?s=506&v=4" width="300" style="border-radius: 20px; border: 2px solid #00f2ff; box-shadow: 0 0 15px #00f2ff, 0 0 30px #7000ff;"/>
+
+ <p align="center">
+  <a href="https://m.youtube.com/@maybes1fu" target="_blank">
+    <img src="https://raw.githubusercontent.com/Ewr-Sifu/SIFU-ANIMATE-MD/refs/heads/main/Sifu/YouTube.svg" width="300" alt="yt channel Link"/>
+  </a>
+</p>
 
  <p align="center">
   <a href="https://m.me/j/AbZyEjKlW84rxu2t/?send_source=gc%3Acopy_invite_link_c" target="_blank">
