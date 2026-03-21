@@ -12,7 +12,7 @@ src="https://avatars.githubusercontent.com/u/244322298?s=506&v=4" width="300" st
 
  <p align="center">
   <a href="https://m.youtube.com/@maybes1fu" target="_blank">
-    <img src="https://raw.githubusercontent.com/Ewr-Sifu/SIFU-ANIMATE-MD/refs/heads/main/Sifu/YouTube.svg" width="300" alt="yt channel Link"/>
+    <img src="https://raw.githubusercontent.com/Ewr-Sifu/SIFU-ANIMATE-MD/refs/heads/main/Sifu/youtube.svg" width="" alt="massanger channel Link"/>
   </a>
 </p>
 
