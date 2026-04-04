@@ -103,7 +103,7 @@ src="https://avatars.githubusercontent.com/u/244322298?s=506&v=4" width="300" st
 <br>
 
 ### ┌∩┐(◣_◢)┌∩┐
-**[ © 乛 S1FU ゎ_ ]**
+**[ © 乛 🅂🄸🄵🄰🅃 ゎ_ ]**
 
 </div>
 
