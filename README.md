@@ -82,6 +82,10 @@ src="https://avatars.githubusercontent.com/u/244322298?s=506&v=4" width="300" st
   </a>
 </p>
 
+
+<p align="center">
+  <img src="https://github-readme-stats-beryl-chi-76.vercel.app/api/top-langs/?username=ewr-sifu&langs_count=8&theme=react&bg_color=151515" />
+</p>
 ---
 
 ###  「 𝕯𝖆𝖙𝖆_𝕱𝖑𝖔𝖜 」
